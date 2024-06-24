@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:creeper_head"
+      "id": "minecraft:creeper_head"
     },
     "title": "No Creeper & Ghast Explosions",
     "description": "Sets gamerule mobGriefing temporarily too False to prevent Creeper & Ghast Explosions",
