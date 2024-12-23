@@ -1,6 +1,6 @@
 {
     "pack":{
-        "pack_format": 48,
+        "pack_format": 15,
         "description": "Sets gamerule mobGriefing temporarily too False to prevent Creeper & Ghast Explosions. By ThijquintNL."
     }
 }
