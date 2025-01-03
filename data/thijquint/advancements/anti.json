@@ -4,7 +4,7 @@
       "item": "minecraft:creeper_head"
     },
     "title": "No Creeper & Ghast Explosions",
-    "description": "Sets gamerule mobGriefing temporarily too False to prevent Creeper & Ghast Explosions",
+    "description": "Prevents Creeper & Ghast Explosions",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": false
